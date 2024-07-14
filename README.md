@@ -6,3 +6,4 @@ This repository will serve as my tracker while completing [mlcourse.ai](https://
 | :---         |     :---:      |          ---: |
 | Topic 1: Exploratory data analysis with Python (Pandas)  | ✅  | 01/10    |
 | Topic 2: Visual data analysis   | ✅      | 13/10   |
+| Topic 3: Classification, DTs & kNN   | in progress      |    |
